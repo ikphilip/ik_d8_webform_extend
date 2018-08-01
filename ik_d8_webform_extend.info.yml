@@ -1,0 +1,8 @@
+name: 'ik_d8_webform_extend'
+description: 'Extend the Webform module'
+package: IK
+type: module
+version: 0.1
+core: 8.x
+dependencies:
+  - webform

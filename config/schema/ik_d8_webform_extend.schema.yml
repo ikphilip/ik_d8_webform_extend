@@ -1,0 +1,7 @@
+webform.webform.*.third_party.ik_d8_webform_extend:
+  type: mapping
+  label: 'Extended Webform Options'
+  mapping:
+    highlight:
+      type: boolean
+      label: 'Highlight form'
